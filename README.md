@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashutosh Maurya</h1>
 
-<h3 align="center">A passionate frontend developer and backend from India</h3>
+<h3 align="center">A passionate frontend and backend  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1230&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1230" /> </p>
 
