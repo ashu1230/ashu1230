@@ -5,7 +5,7 @@
 <h3 align="center"><u>A passionate frontend and backend  developer from India</u></h3>
 
 <hr>
-<img align="right" alt="Coding" width="450" src="https://img.freepik.com//premium-photo//3d-illustration-web-development-concept-programming-coding_250043-330.jpg?size=626&ext=jpg">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com//premium-photo//3d-illustration-web-development-concept-programming-coding_250043-330.jpg?size=626&ext=jpg" >
 
 - 🔭 I’m currently working on **movie recommendation system in ML**
 
@@ -13,17 +13,17 @@
 
 - 👯 I’m looking to collaborate on **Some College**
 
-- 🤝 I’m looking for help with **......**
+<!----- 🤝 I’m looking for help with **......**
 
 - 👨‍💻 All of my projects are available at [....](....)
 
-- 📝 I regularly write articles on [.....](.....)
+- 📝 I regularly write articles on [.....](.....)---->
 
 - 💬 Ask me about **Web Development>c>python>java**
 
 - 📫 How to reach me **Busy, i'm sorry**
 
-- 📄 Know about my experiences [........](........)
+- 📄 Know about my experiences [LINKEDIN](https://www.linkedin.com/in/ashu1230)
 <h2 align="center">🏆Trophies🏆<h2>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1230&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1230" /> </p>
