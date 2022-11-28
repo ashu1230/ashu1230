@@ -28,7 +28,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1230&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1230" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashu1230" alt="ashu1230" /></a> </p>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashu1230" alt="ashu1230" /></a> </p>
 
 
 
