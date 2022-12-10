@@ -5,6 +5,7 @@
 <h3 align="center"><u>A passionate frontend and backend  developer from India</u></h3>
 
 <hr>
+
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com//premium-photo//3d-illustration-web-development-concept-programming-coding_250043-330.jpg?size=626&ext=jpg" >
 
 - 🔭 I’m currently working on **movie recommendation system in ML**
