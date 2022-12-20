@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [.....](.....)---->
 
-- 💬 Ask me about **Web Development>c>python>java**
+- 💬 Ask me about **Web Development > c > python>java**
 
 - 📫 How to reach me **Busy, i'm sorry**
 
