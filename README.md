@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web Development>Java>Python**
 
-- 👯 I’m looking to collaborate on **Some College**
+- 👯 I’m looking to collaborate on **Some College Student**
 
 <!----- 🤝 I’m looking for help with **......**
 
