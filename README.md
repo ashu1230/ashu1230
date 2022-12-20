@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **movie recommendation system in ML**
 
-- 🌱 I’m currently learning **Web Development>Java>Python**
+- 🌱 I’m currently learning **Web Development > Java > Python**
 
 - 👯 I’m looking to collaborate on **Some College Student**
 
