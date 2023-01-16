@@ -63,6 +63,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu1230&show_icons=true&locale=en&layout=compact" alt="ashu1230" / ></p>
   
 <!--this is done----> 
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashu1230&show_icons=true&locale=en" alt="ashu1230" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu1230&" alt="ashu1230" /></p>
