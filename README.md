@@ -57,6 +57,7 @@
 <a href="https://www.leetcode.com/ashu1230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashu1230" height="30" width="40" /></a>
 
 <a href="https://www.hackerearth.com/ashu1230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ashu1230" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/ashu1230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashu1230" height="30" width="40" /></a>
 </p>
   
