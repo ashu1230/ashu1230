@@ -10,11 +10,11 @@
 
 <img align="right" alt="Coding" width="450" height="250" src="Web development.jpg" >
 
-- 🔭 I’m currently working on **movie recommendation system in ML**
+- 🔭 I’m currently working on **Discord Clone**
 
-- 🌱 I’m currently learning **Web Development > Java > Python**
+- 🌱 I’m currently learning **Web Development > Java**
 
-- 👯 I’m looking to collaborate on **Some College Student**
+- 👯 I’m looking to collaborate on **Tech geeks**
 
 <!----- 🤝 I’m looking for help with **......**
 
@@ -22,12 +22,12 @@
 
 - 📝 I regularly write articles on [.....](.....)---->
 
-- 💬 Ask me about **Web Development > c > python>java**
+- 💬 Ask me about **Web Development > c > python > java**
 
-- 📫 How to reach me **Busy, i'm sorry**
+- 📫 How to reach me **[LINKEDIN](https://www.linkedin.com/in/ashu1230)**
 
 - 📄 Know about my experiences [LINKEDIN](https://www.linkedin.com/in/ashu1230)
-
+<br>
 <h2 align="center">🏆Trophies🏆<h2>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1230&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1230" /> </p>
