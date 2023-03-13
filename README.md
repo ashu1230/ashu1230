@@ -1,6 +1,5 @@
 <!----[![https://1.bp.blogspot.com//-7A4WynwLsMw//XbBpCXG8fHI//AAAAAAAAMt4//uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ//s1600//2000_600px.gif]---->
 <h1 align="center">Hi 👋, I'm Ashutosh Maurya</h1>
-
 <h3 align="center"><u>A passionate frontend and backend  developer from India</u></h3>
 <hr>
 <!--- <img align="right" alt="Coding" width="400" src="https://img.freepik.com//premium-photo//3d-illustration-web-development-concept-programming-coding_250043-330.jpg?size=626&ext=jpg" > ---->
