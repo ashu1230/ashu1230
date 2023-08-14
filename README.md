@@ -1,7 +1,11 @@
+
 <!-- [![https://1.bp.blogspot.com//-7A4WynwLsMw//XbBpCXG8fHI//AAAAAAAAMt4//uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ//s1600//2000_600px.gif]- -->
+
 
 <h1 align="center">Hi 👋, I'm Ashutosh Maurya</h1>
 <h3 align="center"><u>A passionate Full Stack developer from India</u></h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1230&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1230" /> </p>
+
 <hr> 
 <!-- <img align="right" alt="Coding" width="400" src="https://img.freepik.com//premium-photo//3d-illustration-web-development-concept-programming-coding_250043-330.jpg?size=626&ext=jpg" >  -->
 
@@ -26,8 +30,6 @@
 <br>
 <h2 align="center">🏆Trophies🏆<h2>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1230&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1230" /> </p>
-
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashu1230" alt="ashu1230" /></a> </p>
 
 
