@@ -18,7 +18,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [....](....) -->
 
-- 📝 I write articles on **[MEDIUM](https://medium.com/@ashu1230)**
+- 📝 I wrote articles on **[MEDIUM](https://medium.com/@ashu1230)**
 
 - 💬 Ask me about **Full Stack Development > Java > c > python**
 
