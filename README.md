@@ -8,18 +8,17 @@
 
 <img align="right" alt="Coding" width="450" height="250" src="Web development.jpg" >
 
-- 🔭 I’m currently working on Self Project
-- 🌱 I’m currently learning **DSA in Java**
+- 🌱 I’m currently learning **Spring Boot in Java**
 
-- 👯 I’m looking to collaborate on **Tech geeks**
+- 👯 I’m looking to collaborate on **Tech Geeks**
 
- <!-- 🤝 I’m looking for help with **......** -->
+ <!-- 🤝 I’m looking for help with **Full Stack Development** -->
 
 <!-- - 👨‍💻 All of my projects are available at [....](....) -->
 
-- 📝 I wrote articles on **[MEDIUM](https://medium.com/@ashu1230)**
+- 📝 I wrote articles on **[MEDIUM](https://medium.com/@ashu1230) [GEEKFORGEEKS](https://www.geeksforgeeks.org/user/ashu1230/contributions/)**
 
-- 💬 Ask me about **Full Stack Development > Java > c > python**
+- 💬 Ask me about **Full Stack Development > Java Development > C**
 
 - 📫 How to reach me **[LINKEDIN](https://www.linkedin.com/in/ashu1230)**
 
