@@ -1,6 +1,6 @@
 <!-- [![https://1.bp.blogspot.com//-7A4WynwLsMw//XbBpCXG8fHI//AAAAAAAAMt4//uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ//s1600//2000_600px.gif]- -->
 <h1 align="center">I'm Ashutosh Maurya</h1>
-<h3 align="center"><u>A passionate Full Stack developer from India</u></h3>
+<h3 align="center"><u>A passionate Full Stack developer</u></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1230&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1230" /> </p>
 
 <hr> 
