@@ -6,7 +6,7 @@
 <hr> 
 <!-- <img align="right" alt="Coding" width="400" src="https://img.freepik.com//premium-photo//3d-illustration-web-development-concept-programming-coding_250043-330.jpg?size=626&ext=jpg" >  -->
 
-<img align="right" alt="Coding" width="450" height="250" src="Web development.jpg" >
+<!-- <img align="right" alt="Coding" width="450" height="250" src="Web development.jpg" > -->
 
 - 🌱 I’m currently learning **Spring Boot in Java**
 
