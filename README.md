@@ -7,7 +7,8 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://img.freepik.com//premium-photo//3d-illustration-web-development-concept-programming-coding_250043-330.jpg?size=626&ext=jpg" >  -->
 
 <!-- <img align="right" alt="Coding" width="450" height="250" src="Web development.jpg" > -->
-
+<p align="center">
+ 
 - 🌱 I’m currently learning **Spring Boot in Java**
 
 - 👯 I’m looking to collaborate on **Tech Geeks**
@@ -23,6 +24,7 @@
 - 📫 How to reach me **[LINKEDIN](https://www.linkedin.com/in/ashu1230)**
 
 - 📄 Know about my experiences [LINKEDIN](https://www.linkedin.com/in/ashu1230)
+</p>
 <br>
 <h2 align="center">🏆Trophies🏆<h2>
   
