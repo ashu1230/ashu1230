@@ -9,9 +9,9 @@
 <!-- <img align="right" alt="Coding" width="450" height="250" src="Web development.jpg" > -->
 <p align="center">
  
-- 🌱 I’m currently learning **Spring Boot in Java**
+<!--- 🌱 I’m currently learning **Spring Boot in Java** -->
 
-- 👯 I’m looking to collaborate on **Tech Geeks**
+<!--- 👯 I’m looking to collaborate on **Tech Geeks**-->
 
  <!-- 🤝 I’m looking for help with **Full Stack Development** -->
 
@@ -19,11 +19,11 @@
 
 - 📝 I wrote articles on **[MEDIUM](https://medium.com/@ashu1230) [GEEKFORGEEKS](https://www.geeksforgeeks.org/user/ashu1230/contributions/)**
 
-- 💬 Ask me about **Full Stack Development > Java Development > C**
+<!--- 💬 Ask me about **Full Stack Development > Java Development > C**-->
 
 - 📫 How to reach me **[LINKEDIN](https://www.linkedin.com/in/ashu1230)**
 
-- 📄 Know about my experiences [LINKEDIN](https://www.linkedin.com/in/ashu1230)
+<!--- 📄 Know about my experiences [LINKEDIN](https://www.linkedin.com/in/ashu1230)-->
 </p>
 <br>
 <h2 align="center">🏆Trophies🏆<h2>
