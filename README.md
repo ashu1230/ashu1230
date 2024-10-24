@@ -4,7 +4,7 @@
 <h3 align="center"><u>A passionate Full Stack developer</u></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1230&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1230" /> </p>
 -->
-<hr> 
+
 <!-- <img align="right" alt="Coding" width="400" src="https://img.freepik.com//premium-photo//3d-illustration-web-development-concept-programming-coding_250043-330.jpg?size=626&ext=jpg" >  -->
 
 <!-- <img align="right" alt="Coding" width="450" height="250" src="Web development.jpg" > -->
