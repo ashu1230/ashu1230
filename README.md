@@ -1,8 +1,9 @@
 <!-- [![https://1.bp.blogspot.com//-7A4WynwLsMw//XbBpCXG8fHI//AAAAAAAAMt4//uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ//s1600//2000_600px.gif]- -->
+<!--
 <h1 align="center">I'm Ashutosh Maurya</h1>
 <h3 align="center"><u>A passionate Full Stack developer</u></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1230&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1230" /> </p>
-
+-->
 <hr> 
 <!-- <img align="right" alt="Coding" width="400" src="https://img.freepik.com//premium-photo//3d-illustration-web-development-concept-programming-coding_250043-330.jpg?size=626&ext=jpg" >  -->
 
@@ -15,15 +16,15 @@
 
  <!-- 🤝 I’m looking for help with **Full Stack Development** -->
 
-<!-- - 👨‍💻 All of my projects are available at [....](....) -->
+<!-- - 👨‍💻 All of my projects are available at [....](....) 
 
 - 📝 I wrote articles on **[MEDIUM](https://medium.com/@ashu1230) [GEEKFORGEEKS](https://www.geeksforgeeks.org/user/ashu1230/contributions/)**
 
-<!--- 💬 Ask me about **Full Stack Development > Java Development > C**-->
+<!--- 💬 Ask me about **Full Stack Development > Java Development > C**
 
 - 📫 How to reach me **[LINKEDIN](https://www.linkedin.com/in/ashu1230)**
 
-<!--- 📄 Know about my experiences [LINKEDIN](https://www.linkedin.com/in/ashu1230)-->
+<!--- 📄 Know about my experiences [LINKEDIN](https://www.linkedin.com/in/ashu1230)
 </p>
 <br>
 <h2 align="center">🏆Trophies🏆<h2>
